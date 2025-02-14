@@ -5,7 +5,7 @@ import numpy as np
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "../../")))
 
-from assignment_2 import (  
+from src.main.assignment_2 import (  
   Nevilles_Method,
   Newton_Forward,
   Divided_Difference,
