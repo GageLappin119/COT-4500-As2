@@ -12,7 +12,7 @@ Contains implementations of numerical algorithms from Chapter 3.
 ### Install Dependencies
 
 1. Ensure you have Python installed (3.6 or higher).
-2. Install required dependencies by running the following command inside the `src` folder:
+2. Install required dependencies by running the following command inside the root folder:
       pip3 install -r requirements.txt
  
    *(Use **`pip`** instead of **`pip3`** if the command does not work.)*
