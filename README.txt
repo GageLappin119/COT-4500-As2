@@ -1,6 +1,7 @@
 # COT-4500-As2
 
 Contains implementations of numerical algorithms from Chapter 3.
+Also contains the assignment pdf with solutions written out by hand alongside program output
 
 ## Directory Structure
 
